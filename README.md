@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/PabloNavas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=C84B31&center=true&vCenter=true&width=980&lines=Especialista+en+Bases+de+Datos+NoSQL+y+MongoDB;Desarrollo+Backend+con+Node.js+y+Express;Dise%C3%B1o+de+REST+APIs+Autenticaci%C3%B3n+JWT+y+Seguridad;L%C3%B3gica+Estructurada+y+Modelado+de+Datos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=C84B31&center=true&vCenter=true&width=980&lines=Especialista+en+An%C3%A1lisis+de+Datos;Especialista+en+Bases+de+Datos+NoSQL+y+MongoDB;Desarrollo+Backend+con+Node.js+y+Express;Dise%C3%B1o+de+REST+APIs+Autenticaci%C3%B3n+JWT+y+Seguridad;L%C3%B3gica+Estructurada+y+Modelado+de+Datos" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,11 +32,11 @@
   <tr>
     <td width="50%">
       <h3>Diseño y Administración de BD</h3>
-      <p align="justify">Modelado NoSQL (MongoDB) y relacional. Implementación de $jsonSchema, indexación, pipelines de agregación avanzada y transacciones.</p>
+      <p align="justify">Modelado NoSQL (MongoDB) y relacional.</p>
     </td>
     <td width="50%">
       <h3>Desarrollo Backend y REST APIs</h3>
-      <p align="justify">Creación de servidores y arquitecturas escalables con Node.js y Express, autenticación mediante JWT y separación de capas.</p>
+      <p align="justify">Creación de arquitecturas escalables con Node.js y Express.</p>
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@
     </td>
     <td width="50%">
       <h3>Liderazgo y Trabajo en Equipo</h3>
-      <p align="justify">Experiencia en gestión de personal, atención al detalle, disciplina y búsqueda continua de innovación en software.</p>
+      <p align="justify">Experiencia en gestión de personal, atención al detalle y búsqueda continua de innovación en software.</p>
     </td>
   </tr>
 </table>
@@ -76,19 +76,19 @@
   <tr>
     <td width="25%">
       <h3>Bases de Datos</h3>
-      <p align="justify">MongoDB ($jsonSchema, Aggregations, Indexes)<br />Diseño de esquemas NoSQL y SQL</p>
+      <p align="justify"><br />Diseño de esquemas NoSQL y SQL<br /></p>
     </td>
     <td width="25%">
       <h3>Backend</h3>
-      <p align="justify">Node.js, Express.js<br />REST APIs, JWT Auth</p>
+      <p align="justify">REST APIs, JWT Auth<br /></p>
     </td>
     <td width="25%">
       <h3>Frontend</h3>
-      <p align="justify">JavaScript (ES6+)<br />HTML5, CSS3</p>
+      <p align="justify">HTML5, CSS3 y JavaScript<br /></p>
     </td>
     <td width="25%">
       <h3>Herramientas</h3>
-      <p align="justify">Git, GitHub<br />Postman, VS Code</p>
+      <p align="justify">Git, GitHub, n8n, visual code <br /></p>
     </td>
   </tr>
 </table>
@@ -124,6 +124,23 @@
 ---
 
 ## Cómo trabajo
-
-```txt
-Análisis -> Diseño de BD -> Desarrollo Frontend -> Desarrollo Backend -> Integración API -> Validación -> Documentación
+</tr>
+<tr>
+<td>Objetivo profesional</td>
+<td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+</tr>
+</table>
+​Contacto
+​<div align="center">
+<a href="https://www.linkedin.com/in/denise-lopez-201914352/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jennifer.lopez.devgt@gmail.com">
+<img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+</a>
+<a href="https://github.com/DeniseLH1">
+<img src="https://img.shields.io/badge/GitHub-DeniseLH1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
+​<br />
+​<div align="center">
