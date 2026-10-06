@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:c84b31&text=Pablo+Navas&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=T%C3%A9cnico+en+Desarrollo+de+Software+%7C+MongoDB+%26+Backend+Developer&descAlignY=58&descSize=18" alt="Pablo Navas - Backend & Database Specialist" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Jennifer Denise López Hernandez - Full Stack Developer Junior" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/PabloNavas">
+  <a href="https://portafolio-jennifer-lopez.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/DeniseLH1?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PabloNavas&style=for-the-badge&color=0891b2&label=VISITAS%20PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DeniseLH1&style=for-the-badge&color=0891b2&label=VISITAS%20PERFIL" alt="Profile views" />
 </div>
 
 <h1 align="center">Hola, soy Pablo Navas</h1>
