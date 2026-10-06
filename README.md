@@ -4,14 +4,6 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/PabloNavas">
-    <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=PabloNavas&style=for-the-badge&color=0891b2&label=VISITAS%20PERFIL" alt="Profile views" />
-</div>
-
-
 <p align="justify">
   <strong>Técnico en Desarrollo de Software | Especialista en MongoDB y Arquitectura Backend</strong>
   <br />
