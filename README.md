@@ -17,9 +17,9 @@
 <h1 align="center">Hola, soy Pablo Alejandro Navas Paredes</h1>
 
 <p align="justify">
-  <strong>Técnico en desarrollo de Software | Node.js & Automatización de Procesos</strong>
+  <strong>Técnico en desarrollo de software | Node.js & Automatización de Procesos</strong>
   <br />
-  Desarrolladora de software orientada a la creación de aplicaciones web escalables, integración de servicios backend, bases de datos y automatizaciones de flujos de trabajo. Apasionada por resolver problemas complejos mediante código limpio, arquitectura eficiente e interfaces intuitivas.
+  Soy un desarrollador de software enfocado en el desarrollo web Full Stack, creación de arquitecturas backend escalables, integración de REST APIs, gestión de bases de datos relacionales y NoSQL, y automatización de flujos de trabajo. Un apasionado por resolver problemas mediante código limpio, lógica estructurada e interfaces dinámicas
 </p>
 
 <div align="center">
@@ -45,12 +45,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Trabajo tecnico</h3>
-      <p align="justify">Enfoque en la innovación tecnológica y la automatización creativa para resolver problemas complejos y optimizar procesos.</p>
+      <h3> Calidad y Control de Versiones </h3>
+      <p align="justify">Uso efectivo de Git/GitHub para la gestión de proyectos, documentación limpia y buenas prácticas en desarrollo.</p>
     </td>
     <td width="50%">
       <h3>Aprendizaje continuo</h3>
-      <p align="justify">Uso efectivo de control de versiones con Git/GitHub y entornos en contenedor con Docker.</p>
+      <p align="justify"> Automatización de flujos.</p>
     </td>
   </tr>
 </table>
@@ -139,10 +139,7 @@
 
 ---
 
-## Como trabajo
-
-```txt
-Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
+Análisis -> estructura -> desarrollo -> validación -> documentación -> mejora
  ```
 
 <table>
@@ -152,7 +149,7 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 </tr>
 <tr>
 <td>Objetivo profesional</td>
-<td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+<td align="justify">Consolidarme como un técnico en desarrollo de software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
 </tr>
 </table>
 ​Contacto
