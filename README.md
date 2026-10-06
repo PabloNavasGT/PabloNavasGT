@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:c84b31&text=Pablo+Navas&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=T%C3%A9cnico+en+Desarrollo+de+Software+%7C+MongoDB+%26+Backend+Developer&descAlignY=58&descSize=18" alt="Pablo Navas - Backend & Database Specialist" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:c84b31&text=Pablo+Navas&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=T%C3%A9cnico+en+Desarrollo+de+Software+%7C+MongoDB+y+Backend+Developer&descAlignY=58&descSize=18" alt="Pablo Navas - Backend & Database Specialist" width="100%" />
 </div>
 
 <br />
@@ -13,7 +13,6 @@
 
 <h1 align="center">Hola, soy Pablo Navas</h1>
 
-<h1 align="center">Hola, soy Jennifer Denise López Hernandez</h1>
 
 <p align="justify">
   <strong>Técnico en desarrollo de Software | Node.js & Automatización de Procesos</strong>
