@@ -123,24 +123,37 @@
 
 ---
 
-## Cómo trabajo
-</tr>
-<tr>
-<td>Objetivo profesional</td>
-<td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
-</tr>
+Cómo trabajo!!
+
+<table>
+  <tr>
+    <td width="25%"><strong>Orden Técnico</strong></td>
+    <td align="justify">Resolución lógica de problemas, atención rigurosa al detalle en el modelado de datos y búsqueda continua de arquitecturas y soluciones tecnológicas modernas.</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Objetivo Profesional</strong></td>
+    <td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+  </tr>
 </table>
-​Contacto
-​<div align="center">
-<a href="https://www.linkedin.com/in/denise-lopez-201914352/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jennifer.lopez.devgt@gmail.com">
-<img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-</a>
-<a href="https://github.com/DeniseLH1">
-<img src="https://img.shields.io/badge/GitHub-DeniseLH1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
+<br />
+
+<h2 align="center">Contacto</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablo-navas-25046b28b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pablonavasguate@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-c84b31?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/PabloNavasGT">
+    <img src="https://img.shields.io/badge/GitHub-PabloNavasGT-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
-​<br />
-​<div align="center">
+
+<br />
+ <h3> El día en que la ciencia comience a estudiar los fenómenos no físicos, hará más progreso en una década que en todos los siglos anteriores de su existencia. - Nikola tesla 1919 <h3/>
+<div align="center">
+  <strong>Editado el: 2026/10/6 </strong>
+</div>
